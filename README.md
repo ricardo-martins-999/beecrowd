@@ -1,11 +1,24 @@
 # Beecrowd
+
 Soluções para os desafios da plataforma.
 
 ## Desafios
 
 - [x] [1000 - Hello World!](https://judge.beecrowd.com/pt/problems/view/1000)
+  - [x] C++
+  - [x] Go
+  - [x] Javascript
+  - [x] Python
 - [x] [1001 - Extremamente Básico](https://judge.beecrowd.com/pt/problems/view/1001)
+  - [x] C++
+  - [x] Go
+  - [x] Javascript
+  - [x] Python
 - [x] [1002 - Área do Círculo](https://judge.beecrowd.com/pt/problems/view/1002)
+  - [x] C++
+  - [x] Go
+  - [x] Javascript
+  - [x] Python
 - [x] [1003 - Soma Simples](https://judge.beecrowd.com/pt/problems/view/1003)
 - [x] [1004 - Produto Simples](https://judge.beecrowd.com/pt/problems/view/1004)
 - [x] [1005 - Média 1](https://judge.beecrowd.com/pt/problems/view/1005)
