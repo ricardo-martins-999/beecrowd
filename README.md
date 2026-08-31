@@ -20,74 +20,382 @@ Soluções para os desafios da plataforma.
   - [x] Javascript
   - [x] Python
 - [x] [1003 - Soma Simples](https://judge.beecrowd.com/pt/problems/view/1003)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1004 - Produto Simples](https://judge.beecrowd.com/pt/problems/view/1004)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1005 - Média 1](https://judge.beecrowd.com/pt/problems/view/1005)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1006 - Média 2](https://judge.beecrowd.com/pt/problems/view/1006)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1007 - Diferença](https://judge.beecrowd.com/pt/problems/view/1007)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1008 - Salário](https://judge.beecrowd.com/pt/problems/view/1008)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1009 - Salário com Bônus](https://judge.beecrowd.com/pt/problems/view/1009)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1010 - Cálculo Simples](https://judge.beecrowd.com/pt/problems/view/1010)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1011 - Esfera](https://judge.beecrowd.com/pt/problems/view/1011)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1012 - Área](https://judge.beecrowd.com/pt/problems/view/1012)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1013 - O Maior](https://judge.beecrowd.com/pt/problems/view/1013)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1014 - Consumo](https://judge.beecrowd.com/pt/problems/view/1014)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1015 - Distâcia Entre Dois Pontos](https://judge.beecrowd.com/pt/problems/view/1015)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1016 - Distância](https://judge.beecrowd.com/pt/problems/view/1016)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1017 - Gasto de Combustível](https://judge.beecrowd.com/pt/problems/view/1017)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1018 - Cédulas](https://judge.beecrowd.com/pt/problems/view/1018)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1019 - Conversão de Tempo](https://judge.beecrowd.com/pt/problems/view/1019)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1020 - Idade em Dias](https://judge.beecrowd.com/pt/problems/view/1020)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1021 - Notas e Moedas](https://judge.beecrowd.com/pt/problems/view/1021)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1022 - TDA Racional](https://judge.beecrowd.com/pt/problems/view/1022)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [ ] [1023 - Estiagem](https://judge.beecrowd.com/pt/problems/view/1023)
+  - [] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1024 - Criptografia](https://judge.beecrowd.com/pt/problems/view/1024)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1025 - Onde está o Mármore?](https://judge.beecrowd.com/pt/problems/view/1025)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1026 - Carrega ou não Carrega?](https://judge.beecrowd.com/pt/problems/view/1026)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [ ] [1027 - Onda Crítica](https://judge.beecrowd.com/pt/problems/view/1027)
+  - [] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1028 - Figurinhas](https://judge.beecrowd.com/pt/problems/view/1028)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1029 - Fibonacci, Quantas Chamadas?](https://judge.beecrowd.com/pt/problems/view/1029)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1030 - A Lenda de Flavious Josephus](https://judge.beecrowd.com/pt/problems/view/1030)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [ ] [1031 - Crise de Energia](https://judge.beecrowd.com/pt/problems/view/1031)
+  - [] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [ ] [1032 - O Primo de Josephus](https://judge.beecrowd.com/pt/problems/view/1032)
+  - [] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [ ] [1033 - Quantas Chamadas Recursivas?](https://judge.beecrowd.com/pt/problems/view/1033)
+  - [] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [ ] [1034 - Festival de Estátuas de Gelo](https://judge.beecrowd.com/pt/problems/view/1034)
+  - [] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1035 - Teste de Seleção 1](https://judge.beecrowd.com/pt/problems/view/1035)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1036 - Fórmula de Bhaskara](https://judge.beecrowd.com/pt/problems/view/1036)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1037 - Intervalo](https://judge.beecrowd.com/pt/problems/view/1037)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1038 - Lanche](https://judge.beecrowd.com/pt/problems/view/1038)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1039 - Flores de Fogo](https://judge.beecrowd.com/pt/problems/view/1039)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1040 - Média 3](https://judge.beecrowd.com/pt/problems/view/1040)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1041 - Coordenadas de um Ponto](https://judge.beecrowd.com/pt/problems/view/1041)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1042 - Sort Simples](https://judge.beecrowd.com/pt/problems/view/1042)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1043 - Triângulos](https://judge.beecrowd.com/pt/problems/view/1043)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1044 - Múltiplos](https://judge.beecrowd.com/pt/problems/view/1044)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1045 - Tipos de Triângulos](https://judge.beecrowd.com/pt/problems/view/1045)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1046 - Tempo de Jogo](https://judge.beecrowd.com/pt/problems/view/1046)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1047 - Tempo de Jogo com Minutos](https://judge.beecrowd.com/pt/problems/view/1047)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1048 - Aumento de Salário](https://judge.beecrowd.com/pt/problems/view/1048)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1049 - Animal](https://judge.beecrowd.com/pt/problems/view/1049)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1050 - DDD](https://judge.beecrowd.com/pt/problems/view/1050)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1051 - Imposto de Renda](https://judge.beecrowd.com/pt/problems/view/1051)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1052 - Mês](https://judge.beecrowd.com/pt/problems/view/1052)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1059 - Números Pares](https://judge.beecrowd.com/pt/problems/view/1059)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1060 - Números Positivos](https://judge.beecrowd.com/pt/problems/view/1060)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1061 - Tempo de um Evento](https://judge.beecrowd.com/pt/problems/view/1061)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1251 - Diga-me a Frequência](https://judge.beecrowd.com/pt/problems/view/1251)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1615 - Insatisfação nas Eleições](https://judge.beecrowd.com/pt/problems/view/1615)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [1865 - Mjölnir](https://judge.beecrowd.com/pt/problems/view/1865)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [2018 - Olimpíadas de Natal](https://judge.beecrowd.com/pt/problems/view/2018)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [2151 - Soco do Rulk](https://judge.beecrowd.com/pt/problems/view/2151)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [2687 - Dominação Bacteriana](https://judge.beecrowd.com/pt/problems/view/2687)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [2718 - Luzes de Natal](https://judge.beecrowd.com/pt/problems/view/2718)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
+- [x] [2823 - Eearliest Deadline First](https://judge.beecrowd/pt/problems/view/2823)
+  - [] C++
+  - [x] Go
+  - [] Javascript
+  - [] Python
+- [x] [2852 - Troca de Mensagens](https://judge.beecrowd/pt/problems/view/2852)
+  - [] C++
+  - [x] Go
+  - [] Javascript
+  - [] Python
 - [x] [2927 - Imprevistos Natalinos](https://judge.beecrowd.com/pt/problems/view/2927)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
+- [x] [3084 - Relógio Antigo](https://judge.beecrowd.com/pt/problems/view/3084)
+  - [x] C++
+  - [x] Go
+  - [] Javascript
+  - [] Python
 - [x] [3089 - Presentes de Natal](https://judge.beecrowd.com/pt/problems/view/3089)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [3142 - Excel Bugado](https://judge.beecrowd.com/pt/problems/view/3142)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [3171 - Cordão de Led](https://judge.beecrowd.com/pt/problems/view/3171)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
+- [x] [3252 - Reus da Floresta](https://judge.beecrowd.com/pt/problems/view/3252)
+  - [] C++
+  - [x] Go
+  - [] Javascript
+  - [] Python
 - [x] [3397 - Melhor do Multiverso](https://judge.beecrowd.com/pt/problems/view/3397)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [3397 - Moeda Convertida](https://judge.beecrowd.com/pt/problems/view/3398)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [3397 - Meu nome é Enésimo!](https://judge.beecrowd.com/pt/problems/view/3399)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [3416 - Eu Quero Cafééé](https://judge.beecrowd.com/pt/problems/view/3416)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [3469 - In Site](https://judge.beecrowd.com/pt/problems/view/3469)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [3475 - Conversor](https://judge.beecrowd.com/pt/problems/view/3475)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [3476 - A união faz a força!](https://judge.beecrowd.com/pt/problems/view/3476)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
 - [x] [3484 - Turma Dividida](https://judge.beecrowd.com/pt/problems/view/3484)
+  - [x] C++
+  - [] Go
+  - [] Javascript
+  - [] Python
