@@ -319,12 +319,17 @@ Soluções para os desafios da plataforma.
   - [] Go
   - [] Javascript
   - [] Python
-- [x] [2823 - Eearliest Deadline First](https://judge.beecrowd/pt/problems/view/2823)
+- [x] [2823 - Eearliest Deadline First](https://judge.beecrowd.com/pt/problems/view/2823)
   - [] C++
   - [x] Go
   - [] Javascript
   - [] Python
-- [x] [2852 - Troca de Mensagens](https://judge.beecrowd/pt/problems/view/2852)
+- [x] [2846 - Fibonot](https://judge.beecrowd.com/pt/problems/view/2846)
+  - [] C++
+  - [x] Go
+  - [] Javascript
+  - [] Python
+- [x] [2852 - Troca de Mensagens](https://judge.beecrowd.com/pt/problems/view/2852)
   - [] C++
   - [x] Go
   - [] Javascript
