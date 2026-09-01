@@ -21,24 +21,24 @@ Soluções para os desafios da plataforma.
   - [x] Python
 - [x] [1003 - Soma Simples](https://judge.beecrowd.com/pt/problems/view/1003)
   - [x] C++
-  - [] Go
-  - [] Javascript
-  - [] Python
+  - [x] Go
+  - [x] Javascript
+  - [x] Python
 - [x] [1004 - Produto Simples](https://judge.beecrowd.com/pt/problems/view/1004)
   - [x] C++
-  - [] Go
-  - [] Javascript
-  - [] Python
+  - [x] Go
+  - [x] Javascript
+  - [x] Python
 - [x] [1005 - Média 1](https://judge.beecrowd.com/pt/problems/view/1005)
   - [x] C++
-  - [] Go
-  - [] Javascript
-  - [] Python
+  - [x] Go
+  - [x] Javascript
+  - [x] Python
 - [x] [1006 - Média 2](https://judge.beecrowd.com/pt/problems/view/1006)
   - [x] C++
-  - [] Go
-  - [] Javascript
-  - [] Python
+  - [x] Go
+  - [x] Javascript
+  - [x] Python
 - [x] [1007 - Diferença](https://judge.beecrowd.com/pt/problems/view/1007)
   - [x] C++
   - [] Go

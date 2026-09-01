@@ -8,7 +8,7 @@ int main() {
     cin >> valueA;
     cin >> valueB;
 
-    prodAB = valueA, valueB;
+    prodAB = valueA * valueB;
 
     cout << "PROD = " << prodAB << '\n';
 
